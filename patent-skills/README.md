@@ -65,4 +65,4 @@ This plugin works well alongside **inventor-skills** (TRIZ + SIT innovation meth
 
 **1.0.0** — March 2026
 Built for: Vietnamese entrepreneurs, inventors, and startup founders
-Author: Dan Tino (dantino.solutions@gmail.com)
+Author: Dan Tong (tongvtdan@gmail.com)
