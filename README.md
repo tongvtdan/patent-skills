@@ -77,7 +77,7 @@ Patent Skills gives Claude the knowledge of a Vietnamese patent attorney. It han
 
 ## Works Best With
 
-This plugin pairs with [inventor-skills](https://github.com/dantino/inventor-skills) (TRIZ + SIT innovation methodology):
+This plugin pairs with [inventor-skills](https://github.com/tongvtdan/inventor-skills) (TRIZ + SIT innovation methodology):
 - Use **inventor-skills** to *generate* breakthrough inventions
 - Use **patent-skills** to *protect* them
 
