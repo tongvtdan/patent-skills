@@ -1,0 +1,26 @@
+{
+  "name": "patent-skills",
+  "version": "1.0.0",
+  "description": "Patent and IP skills for inventors, entrepreneurs, and startups — prior art research, provisional claims, full patent applications, patent strategy, claims analysis, office action responses, and IP valuation/licensing. Covers Vietnamese IP Law (Luật SHTT 2022), PCT, and USPTO.",
+  "author": {
+    "name": "Dan Tino",
+    "email": "dantino.solutions@gmail.com",
+    "url": "https://github.com/tongvtdan/patent-skills"
+  },
+  "keywords": [
+    "patent",
+    "ip",
+    "intellectual-property",
+    "invention",
+    "startup",
+    "vietnam",
+    "noip",
+    "pct",
+    "uspto",
+    "claims",
+    "prior-art",
+    "licensing"
+  ],
+  "homepage": "https://github.com/tongvtdan/patent-skills",
+  "license": "MIT"
+}
