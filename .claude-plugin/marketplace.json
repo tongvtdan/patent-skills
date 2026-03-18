@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "patent-skills",
+  "version": "1.0.0",
+  "description": "Patent and IP skills for inventors, entrepreneurs, and startups. Covers Vietnamese IP Law, PCT, and USPTO. Prior art search, patent drafting, claims analysis, office action responses, IP strategy, and licensing — all in one plugin.",
+  "owner": {
+    "name": "Dan Tino",
+    "email": "dantino.solutions@gmail.com",
+    "url": "https://github.com/tongvtdan"
+  },
+  "plugins": [
+    {
+      "name": "patent-skills",
+      "description": "7 patent and IP skills for inventors and entrepreneurs: prior art research, provisional claims, full application drafting, patent strategy, claims analysis, office action responses, and IP valuation/licensing. Built on Vietnamese IP Law (Luật SHTT 2022), PCT, and USPTO standards.",
+      "source": "./patent-skills",
+      "category": "legal"
+    }
+  ]
+}
