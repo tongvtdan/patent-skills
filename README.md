@@ -93,8 +93,8 @@ Vietnamese IP Law guidance is based on Luật SHTT as amended through 2022. Veri
 
 ## Author
 
-**Dan Tino** — Inventor, entrepreneur, and IP strategy enthusiast
-[dantino.solutions@gmail.com](mailto:dantino.solutions@gmail.com)
+**Dan Tong** — Inventor, entrepreneur, and IP strategy enthusiast
+[tongvtdan@gmail.com](mailto:tongvtdan@gmail.com)
 
 ---
 
